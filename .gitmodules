@@ -1,0 +1,12 @@
+[submodule "Lectures/errors-promises-notes"]
+	path = Lectures/errors-promises-notes
+	url = https://github.com/NimaBoscarino/errors-promises-notes.git
+[submodule "Lectures/react-native-notes"]
+	path = Lectures/react-native-notes
+	url = https://github.com/NimaBoscarino/react-native-notes
+[submodule "Lectures/mongo-notes"]
+	path = Lectures/mongo-notes
+	url = https://github.com/NimaBoscarino/mongo-notes
+[submodule "Breakouts/es6-notes"]
+	path = Breakouts/es6-notes
+	url = https://github.com/NimaBoscarino/es6-notes.git
