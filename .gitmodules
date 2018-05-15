@@ -10,3 +10,6 @@
 [submodule "Breakouts/es6-notes"]
 	path = Breakouts/es6-notes
 	url = https://github.com/NimaBoscarino/es6-notes.git
+[submodule "Lectures/web-server-notes"]
+	path = Lectures/web-server-notes
+	url = https://github.com/NimaBoscarino/web-server-notes.git
