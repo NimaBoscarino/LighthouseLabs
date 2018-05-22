@@ -13,3 +13,9 @@
 [submodule "Lectures/web-server-notes"]
 	path = Lectures/web-server-notes
 	url = https://github.com/NimaBoscarino/web-server-notes.git
+[submodule "Lectures/ruby-notes"]
+	path = Lectures/ruby-notes
+	url = https://github.com/NimaBoscarino/ruby-notes
+[submodule "Breakouts/active-record-notes"]
+	path = Breakouts/active-record-notes
+	url = https://github.com/NimaBoscarino/active-record-notes
