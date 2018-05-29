@@ -19,3 +19,6 @@
 [submodule "Breakouts/active-record-notes"]
 	path = Breakouts/active-record-notes
 	url = https://github.com/NimaBoscarino/active-record-notes
+[submodule "Lectures/pg-node-notes"]
+	path = Lectures/pg-node-notes
+	url = https://github.com/NimaBoscarino/pg-node-notes.git
