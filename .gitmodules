@@ -22,3 +22,6 @@
 [submodule "Lectures/pg-node-notes"]
 	path = Lectures/pg-node-notes
 	url = https://github.com/NimaBoscarino/pg-node-notes.git
+[submodule "Breakouts/knex-notes"]
+	path = Breakouts/knex-notes
+	url = https://github.com/NimaBoscarino/knex-notes.git
