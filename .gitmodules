@@ -25,3 +25,6 @@
 [submodule "Breakouts/knex-notes"]
 	path = Breakouts/knex-notes
 	url = https://github.com/NimaBoscarino/knex-notes.git
+[submodule "Lectures/client-side-js-notes"]
+	path = Lectures/client-side-js-notes
+	url = https://github.com/NimaBoscarino/client-side-js-notes.git
