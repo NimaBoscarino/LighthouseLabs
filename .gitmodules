@@ -37,3 +37,6 @@
 [submodule "Breakouts/react-breakout-notes"]
 	path = Breakouts/react-breakout-notes
 	url = https://github.com/NimaBoscarino/react-breakout-notes.git
+[submodule "Lectures/websockets-react-notes"]
+	path = Lectures/websockets-react-notes
+	url = https://github.com/NimaBoscarino/websockets-react-notes.git
