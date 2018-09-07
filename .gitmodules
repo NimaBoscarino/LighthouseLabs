@@ -40,3 +40,6 @@
 [submodule "Lectures/websockets-react-notes"]
 	path = Lectures/websockets-react-notes
 	url = https://github.com/NimaBoscarino/websockets-react-notes.git
+[submodule "Lectures/prototypes-js-notes"]
+	path = Lectures/prototypes-js-notes
+	url = https://github.com/NimaBoscarino/prototypes-js-notes.git
