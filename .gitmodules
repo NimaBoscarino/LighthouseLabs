@@ -46,3 +46,6 @@
 [submodule "Lectures/websockets-notes"]
 	path = Lectures/websockets-notes
 	url = https://github.com/NimaBoscarino/websockets-notes.git
+[submodule "Lectures/ajax-notes"]
+	path = Lectures/ajax-notes
+	url = https://github.com/NimaBoscarino/ajax-notes.git
