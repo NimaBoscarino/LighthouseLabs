@@ -49,3 +49,6 @@
 [submodule "Lectures/ajax-notes"]
 	path = Lectures/ajax-notes
 	url = https://github.com/NimaBoscarino/ajax-notes.git
+[submodule "Lectures/rails-2-notes"]
+	path = Lectures/rails-2-notes
+	url = https://github.com/NimaBoscarino/rails-2-notes.git
