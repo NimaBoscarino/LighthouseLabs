@@ -52,3 +52,6 @@
 [submodule "Lectures/rails-2-notes"]
 	path = Lectures/rails-2-notes
 	url = https://github.com/NimaBoscarino/rails-2-notes.git
+[submodule "Lectures/tech-ethics-notes"]
+	path = Lectures/tech-ethics-notes
+	url = https://github.com/NimaBoscarino/tech-ethics-notes.git
