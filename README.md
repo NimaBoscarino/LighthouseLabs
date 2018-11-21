@@ -2,7 +2,7 @@
 
 This is a collection of the material I use for lectures at [Lighthouse Labs](https://www.lighthouselabs.ca/).
 
-The content is divided into `Breakouts` and `Lectures`. `Breakouts` are short 1-hour lectures. `Lectures` are longer (typically 2-hour) lectures on broader topics. The repos contain things such as:
+The content is divided into [`Breakouts`](https://github.com/NimaBoscarino/LighthouseLabs/tree/master/Breakouts) and [`Lectures`](https://github.com/NimaBoscarino/LighthouseLabs/tree/master/Lectures). `Breakouts` are short 1-hour lectures. `Lectures` are longer (typically 2-hour) lectures on broader topics. The repos contain things such as:
 
 - Slides
 - Detailed notes with short examples
