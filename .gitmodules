@@ -55,3 +55,6 @@
 [submodule "Lectures/tech-ethics-notes"]
 	path = Lectures/tech-ethics-notes
 	url = https://github.com/NimaBoscarino/tech-ethics-notes.git
+[submodule "Lectures/callbacks-notes"]
+	path = Lectures/callbacks-notes
+	url = https://github.com/NimaBoscarino/callbacks-notes.git
