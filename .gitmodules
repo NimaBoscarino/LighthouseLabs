@@ -58,3 +58,9 @@
 [submodule "Lectures/callbacks-notes"]
 	path = Lectures/callbacks-notes
 	url = https://github.com/NimaBoscarino/callbacks-notes.git
+[submodule "Lectures/crud-express-notes"]
+	path = Lectures/crud-express-notes
+	url = https://github.com/NimaBoscarino/crud-express-notes.git
+[submodule "Lectures/user-authentication-notes"]
+	path = Lectures/user-authentication-notes
+	url = https://github.com/NimaBoscarino/user-authentication-notes.git
