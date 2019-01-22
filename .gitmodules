@@ -64,3 +64,6 @@
 [submodule "Lectures/user-authentication-notes"]
 	path = Lectures/user-authentication-notes
 	url = https://github.com/NimaBoscarino/user-authentication-notes.git
+[submodule "Breakouts/jquery-notes"]
+	path = Breakouts/jquery-notes
+	url = https://github.com/NimaBoscarino/jquery-notes.git
