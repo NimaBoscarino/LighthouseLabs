@@ -67,3 +67,6 @@
 [submodule "Breakouts/jquery-notes"]
 	path = Breakouts/jquery-notes
 	url = https://github.com/NimaBoscarino/jquery-notes.git
+[submodule "Lectures/responsive-sass-notes"]
+	path = Lectures/responsive-sass-notes
+	url = https://github.com/NimaBoscarino/responsive-sass-notes/
