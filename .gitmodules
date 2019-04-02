@@ -76,3 +76,6 @@
 [submodule "Lectures/dev-workflow-notes"]
 	path = Lectures/dev-workflow-notes
 	url = https://github.com/NimaBoscarino/dev-workflow-notes.git
+[submodule "Breakouts/scope-notes"]
+	path = Breakouts/scope-notes
+	url = https://github.com/NimaBoscarino/scope-notes
