@@ -73,3 +73,6 @@
 [submodule "Lectures/nested-resources-notes"]
 	path = Lectures/nested-resources-notes
 	url = https://github.com/NimaBoscarino/nested-resources-notes
+[submodule "Lectures/dev-workflow-notes"]
+	path = Lectures/dev-workflow-notes
+	url = https://github.com/NimaBoscarino/dev-workflow-notes.git
