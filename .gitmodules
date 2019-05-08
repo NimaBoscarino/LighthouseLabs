@@ -79,3 +79,6 @@
 [submodule "Lectures/objects-js-notes"]
 	path = Lectures/objects-js-notes
 	url = https://github.com/NimaBoscarino/objects-js-notes.git
+[submodule "Lectures/crud-express-notes"]
+	path = Lectures/crud-express-notes
+	url = https://github.com/NimaBoscarino/crud-express-notes.git
