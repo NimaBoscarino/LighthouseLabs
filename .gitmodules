@@ -82,3 +82,6 @@
 [submodule "Lectures/crud-express-notes"]
 	path = Lectures/crud-express-notes
 	url = https://github.com/NimaBoscarino/crud-express-notes.git
+[submodule "Lectures/networking-tcp-notes"]
+	path = Lectures/networking-tcp-notes
+	url = git@github.com:NimaBoscarino/networking-tcp-notes.git
