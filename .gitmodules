@@ -85,3 +85,9 @@
 [submodule "Lectures/networking-tcp-notes"]
 	path = Lectures/networking-tcp-notes
 	url = git@github.com:NimaBoscarino/networking-tcp-notes.git
+[submodule "Lectures/middleware-router-notes"]
+	path = Lectures/middleware-router-notes
+	url = git@github.com:NimaBoscarino/middleware-router-notes.git
+[submodule "Lectures/custom-hooks-notes"]
+	path = Lectures/custom-hooks-notes
+	url = git@github.com:NimaBoscarino/custom-hooks-notes.git
